@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "name": "Eiffel Tower",
+    "description": "Visit the iconic Eiffel Tower and enjoy the view of Paris from the top.",
+    "startDate": "2023-05-02",
+    "endDate": "2023-05-02",
+    "location": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France",
+    "price": 25,
+    "currency": "EUR",
+    "imageUrl": "https://source.unsplash.com/1600x900/?eiffel-tower"
+  },
+  {
+    "id": "2",
+    "tripId": "1",
+    "name": "Louvre Museum",
+    "description": "Explore the world's largest art museum and see famous works of art like the Mona Lisa.",
+    "startDate": "2023-05-03",
+    "endDate": "2023-05-03",
+    "location": "Rue de Rivoli, 75001 Paris, France",
+    "price": 17,
+    "currency": "EUR",
+    "imageUrl": "https://source.unsplash.com/1600x900/?louvre"
+  },
+  {
+    "id": "3",
+    "tripId": "1",
+    "name": "Notre-Dame Cathedral",
+    "description": "Visit the famous cathedral and see the beautiful stained glass windows.",
+    "startDate": "2023-05-04",
+    "endDate": "2023-05-04",
+    "location": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",
+    "price": 0,
+    "currency": "EUR",
+    "imageUrl": "https://source.unsplash.com/1600x900/?notre-dame"
+  },
+  {
+    "id": "4",
+    "tripId": "1",
+    "name": "Montmartre",
+    "description": "Explore the historic district of Montmartre and visit the famous Sacré-Cœur Basilica.",
+    "startDate": "2023-05-05",
+    "endDate": "2023-05-05",
+    "location": "Montmartre, 75018 Paris, France",
+    "price": 0,
+    "currency": "EUR",
+    "imageUrl": "https://source.unsplash.com/1600x900/?montmartre"
+  },
+  {
+    "id": "5",
+    "tripId": "1",
+    "name": "Seine River Cruise",
+    "description": "Take a relaxing cruise along the Seine River and see the sights of Paris from the water.",
+    "startDate": "2023-05-06",
+    "endDate": "2023-05-06",
+    "location": "Port de la Bourdonnais, 75007 Paris, France",
+    "price": 15,
+    "currency": "EUR",
+    "imageUrl": "https://source.unsplash.com/1600x900/?seine-river"
+  }
+]

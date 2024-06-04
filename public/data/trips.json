@@ -1,0 +1,31 @@
+{
+  "trips": [
+    {
+      "id": "1",
+      "destination": "Paris, France",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-10",
+      "status": "Upcoming",
+      "budget": 1000,
+      "notes": "This is a trip to Paris"
+    },
+    {
+      "id": "2",
+      "destination": "New York, USA",
+      "startDate": "2023-05-15",
+      "endDate": "2023-05-22",
+      "status": "Ongoing",
+      "budget": 900,
+      "notes": "This is a trip to Paris"
+    },
+    {
+      "id": "3",
+      "destination": "Tokyo, Japan",
+      "startDate": "2023-04-01",
+      "endDate": "2023-04-10",
+      "status": "Past",
+      "budget": 1100,
+      "notes": "This is a trip to Paris"
+    }
+  ]
+}
