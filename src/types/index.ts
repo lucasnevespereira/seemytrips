@@ -23,6 +23,7 @@ export interface Activity {
 
 export interface Restaurant {
     id: string;
+    tripId: string;
     name: string;
     description: string;
     address: string;
@@ -35,6 +36,7 @@ export interface Restaurant {
 
 export interface Hotel {
     id: string;
+    tripId: string;
     name: string;
     description: string;
     address: string;
